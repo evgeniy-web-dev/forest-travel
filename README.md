@@ -11,4 +11,4 @@
 - Форма обратной связи с кастомизацией
 - Интеграция карты (Я. Карты)
 
-[Демо онлайн](https://evgeniy-web-dev//projects/forest-travel/index.html)
+[Демо онлайн](https://https://evgeniy-web-dev.github.io/forest-travel/)
